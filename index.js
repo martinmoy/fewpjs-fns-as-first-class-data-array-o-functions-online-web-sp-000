@@ -1,5 +1,5 @@
 function wakeDog(dogName, dogBreed) {
-  
+
    let action = (`Wake ${dogName} the ${dogBreed}`)
    console.log(action);
    return action;
@@ -29,5 +29,5 @@ let routine = [ wakeDog, leashDog, walkToPark, throwFrisbee, walkHome, unleashDo
 
 
 function exerciseDog(dogName, dogBreed){
-  
+
 }
